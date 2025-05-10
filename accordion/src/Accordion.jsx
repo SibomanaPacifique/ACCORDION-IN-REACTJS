@@ -55,7 +55,7 @@ const Accordion = () => {
     
         <h1 className="tex">Hello dear</h1>
       <div className="accord"> 
-      <h1 className="text-success fw-bold"> SIMPLE ACCORDION</h1>
+      <h1 className="text-success fw-bold">ACCORDION IN REACT WITH BOOTSTRAP</h1>
       <p className="card border border-warning border-4 bg-info">The accordion refer to the techinc of presenting user interface
         frequent asked questions in expanding or collapse manner so that the answer and hide it
         for himself.
